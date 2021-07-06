@@ -1,0 +1,9 @@
+/Users/ninoshkasingh/gitrepos/Data_Structures-/build/CMakeFiles/rebuild_cache.dir
+/Users/ninoshkasingh/gitrepos/Data_Structures-/build/CMakeFiles/edit_cache.dir
+/Users/ninoshkasingh/gitrepos/Data_Structures-/build/src/CMakeFiles/rebuild_cache.dir
+/Users/ninoshkasingh/gitrepos/Data_Structures-/build/src/CMakeFiles/edit_cache.dir
+/Users/ninoshkasingh/gitrepos/Data_Structures-/build/src/CMakeFiles/DataStructuresApp.dir
+/Users/ninoshkasingh/gitrepos/Data_Structures-/build/src/CMakeFiles/DataStructuresLib.dir
+/Users/ninoshkasingh/gitrepos/Data_Structures-/build/tests/CMakeFiles/rebuild_cache.dir
+/Users/ninoshkasingh/gitrepos/Data_Structures-/build/tests/CMakeFiles/edit_cache.dir
+/Users/ninoshkasingh/gitrepos/Data_Structures-/build/tests/CMakeFiles/DataStructuresApp_tests.dir

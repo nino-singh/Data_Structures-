@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libDataStructuresLib.a CMakeFiles/DataStructuresLib.dir/ucGenericFifo.c.o CMakeFiles/DataStructuresLib.dir/ucByteFifo.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libDataStructuresLib.a
